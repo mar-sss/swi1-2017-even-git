@@ -3,15 +3,15 @@ Please chnge me . -- CHANGED word change
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: banana
 
 Your favorite city: Helsinki
 
-Your favorite vegetable: ...
+Your favorite vegetable: tomatoes
 
 Your favorite color: ...
 
-Your favorite icecream: ...
+Your favorite icecream: lemon flavour
 
 Your favorite season: ...
 
